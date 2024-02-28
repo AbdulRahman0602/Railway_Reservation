@@ -16,7 +16,7 @@ The Train Reservation System is a web-based application designed to facilitate t
 
 ## Setup Instructions
 1. **Clone the Repository**: Clone the Train Reservation System repository to your local machine using the following command:
-git clone <repository_url>
+git clone https://github.com/AbdulRahman0602/Railway_Reservation.git
 
 2. **Database Setup**: Into your MySQL database to create the necessary tables and populate initial data.
 
